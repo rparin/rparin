@@ -5,12 +5,20 @@
 
 I am an undergraduate Computer Science student🎓 at UC Irvine 🏫. I am passionate about both computer science💻 and art 🎨, and am constantly exploring 🧐 ways to combine these two things in my work 📝. In my free time ⏱️, I enjoy playing games 🎮 or watching videos 📺 on technology and art. I find it fascinating 🤯 how these two seemingly different fields can intersect and inspire one another ✨.
 
+<!-- <div align="right" style="margin-right: 4.5rem;">
+<font size="5" >⚡ Github Stats ⚡</font>
+</div>
+<br /> -->
+<img  align="right" width=325 alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjpboredom&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+
 ### What I'm up to:
 
 - 🛠 &nbsp; Working with Nodejs, Express, React, MongoDB.
 - 🧠 &nbsp; Learning Full Stack Development.
 - 📫 &nbsp; How to reach me: r.parin070@gmail.com
 - 📜 &nbsp; Checkout my [Resume](https://ralphparin.netlify.app/public/Resume.pdf).
+  <img align="right" width=325  alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=rjpboredom&theme=react&border=61dafb&hide_border=true" />
+  <br /> <br />
 
 ### My Favorite X:
 
@@ -18,8 +26,10 @@ I am an undergraduate Computer Science student🎓 at UC Irvine 🏫. I am passi
 - 📺 &nbsp; [The Greatest Showman](https://www.imdb.com/title/tt1485796/), [Interstellar](https://www.imdb.com/title/tt0816692/?ref_=nv_sr_srsg_1), [Wolf Children](https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki), [Your Name](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)
 - 🧑‍🎨 &nbsp; [Yuumei](https://www.artstation.com/yuumei), [WLOP](https://www.artstation.com/wlop), [Qinni](https://www.artstation.com/qinni)
 - 🎵 &nbsp; [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [One Ok Rock](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Lisa](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv)
-  <!-- - 🍽️ &nbsp; Stir fry noodles, Sandwiches, Ramen -->
 
-<!-- - 📖 &nbsp; <span style="color: green "> Some green text </span> -->
+  <br />
 
-### Thanks for stopping by! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rjpboredom.rjpboredom&style=flat-square&color=0088cc)
+<div align="center">
+<font size="4" ><strong>Thanks for stopping by!</strong> &nbsp;</font>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rjpboredom.rjpboredom">
+</div>
