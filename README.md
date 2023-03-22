@@ -27,9 +27,8 @@ I am an undergraduate Computer Science student🎓 at UC Irvine 🏫. I am passi
 - 🧑‍🎨 &nbsp; [Yuumei](https://www.artstation.com/yuumei), [WLOP](https://www.artstation.com/wlop), [Qinni](https://www.artstation.com/qinni)
 - 🎵 &nbsp; [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [One Ok Rock](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Lisa](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv)
 
-  <br />
-
 <div align="center">
+<br/>
 <font size="4" ><strong>Thanks for stopping by!</strong> &nbsp;</font>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rjpboredom.rjpboredom">
 </div>
