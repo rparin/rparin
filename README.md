@@ -19,7 +19,6 @@ I am an undergraduate Computer Science student🎓 at UC Irvine 🏫. I am passi
 - 🧑‍🎨 &nbsp; [Yuumei](https://www.artstation.com/yuumei), [WLOP](https://www.artstation.com/wlop), [Qinni](https://www.artstation.com/qinni)
 - 🎵 &nbsp; [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [One Ok Rock](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Lisa](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv)
   <!-- - 🍽️ &nbsp; Stir fry noodles, Sandwiches, Ramen -->
-  <a href="https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv" target="_blank">Hello, world!</a>
 
 <!-- - 📖 &nbsp; <span style="color: green "> Some green text </span> -->
 
