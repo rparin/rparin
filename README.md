@@ -20,7 +20,6 @@ I am an undergraduate Computer Science student🎓 at UC Irvine 🏫. I am passi
 - 📜 &nbsp; Checkout my [Resume](https://ralphparin.netlify.app/public/Resume.pdf).
 
 <img align="right" width="400"  alt="github stats streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rparin&theme=react&border=61dafb&hide_border=true" />
-<br /> <br />
 
 &nbsp;
 
