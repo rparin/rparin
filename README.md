@@ -9,7 +9,8 @@ I am an undergraduate Computer Science student🎓 at UC Irvine 🏫. I am passi
 <font size="5" >⚡ Github Stats ⚡</font>
 </div>
 <br /> -->
-<img  align="right" width="400"  alt="github stats languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rparin&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<img  align="right" width="375" height="180"  alt="github stats languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rparin&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<br />
 
 ### What I'm up to:
 
@@ -20,7 +21,7 @@ I am an undergraduate Computer Science student🎓 at UC Irvine 🏫. I am passi
   <img align="right" width="400"  alt="github stats streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rparin&theme=react&border=61dafb&hide_border=true" />
   <br /> <br />
 
-### My Favorite X:
+### My Favorite x:
 
 - 📖 &nbsp; [Your Story](https://www.novelupdates.com/series/your-story/), [Starting Over](https://www.novelupdates.com/series/starting-over/), [Solo Leveling](https://www.novelupdates.com/series/solo-leveling/)
 - 🎬 &nbsp; [Interstellar](https://www.imdb.com/title/tt0816692/?ref_=nv_sr_srsg_1), [Wolf Children](https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki), [Your Name](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)
