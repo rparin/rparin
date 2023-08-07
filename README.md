@@ -1,9 +1,9 @@
 ## Hey there 👋, I'm Ralph
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rparin/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=googlechrome&logoColor=white)](https://ralphparin.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=googlechrome&logoColor=white)](https://rparin.github.io)
 
-I am an undergraduate Computer Science student🎓 at UC Irvine 🏫. I am passionate about both computer science💻 and art 🎨, and am constantly exploring 🧐 ways to combine these two things in my work 📝. In my free time ⏱️, I enjoy playing games 🎮 or watching videos 📺 on technology and art. I find it fascinating 🤯 how these two seemingly different fields can intersect and inspire one another ✨.
+I am a UC Irvine graduate 🎓 majoring in Computer Science. I am passionate about both computer science💻 and art 🎨, and am constantly exploring 🧐 ways to combine these two things in my work 📝. In my free time ⏱️, I enjoy playing games 🎮 or watching videos 📺 on technology and art. I find it fascinating 🤯 how these two seemingly different fields can intersect and inspire one another ✨.
 
 <!-- <div align="right" style="margin-right: 4.5rem;">
 <font size="5" >⚡ Github Stats ⚡</font>
