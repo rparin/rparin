@@ -18,7 +18,7 @@ I am a UC Irvine graduate 🎓 majoring in Computer Science. I am passionate abo
 - 🛠 &nbsp; Working with Nodejs, Express, React, MongoDB.
 - 🧠 &nbsp; Learning Full Stack Development.
 - 📫 &nbsp; How to reach me: r.parin070@gmail.com
-- 📜 &nbsp; Checkout my [Resume](https://ralphparin.netlify.app/public/Resume.pdf).
+- 📜 &nbsp; Checkout my [Resume](https://raw.githubusercontent.com/rparin/rparin.github.io/main/public/Resume.pdf).
 
 <img align="right" width="400"  alt="github stats streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rparin&theme=react&border=61dafb&hide_border=true" />
 
