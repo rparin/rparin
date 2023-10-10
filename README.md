@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rparin/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=googlechrome&logoColor=white)](https://rparin.github.io)
 
-I am a UC Irvine graduate 🎓 majoring in Computer Science. I am passionate about both computer science💻 and art 🎨, and am constantly exploring 🧐 ways to combine these two things in my work 📝. In my free time ⏱️, I enjoy playing games 🎮 or watching videos 📺 on technology and art. I find it fascinating 🤯 how these two seemingly different fields can intersect and inspire one another ✨.
+I'm a UC Irvine computer Science graduate 🎓. As someone who is passionate about both computer science💻 and art 🎨, I am constantly exploring 🧐 ways to combine these two things in my work 📝. In my free time ⏱️, I enjoy playing games 🎮 or watching videos 📺 on technology and art. I find it fascinating 🤯 how these two seemingly different fields can intersect and inspire one another ✨.
 
 <!-- <div align="right" style="margin-right: 4.5rem;">
 <font size="5" >⚡ Github Stats ⚡</font>
@@ -18,7 +18,7 @@ I am a UC Irvine graduate 🎓 majoring in Computer Science. I am passionate abo
 - 🛠 &nbsp; Working with Nodejs, Express, React, MongoDB.
 - 🧠 &nbsp; Learning Full Stack Development.
 - 📫 &nbsp; How to reach me: r.parin070@gmail.com
-- 📜 &nbsp; Checkout my [Resume](https://raw.githubusercontent.com/rparin/rparin.github.io/main/public/Resume.pdf).
+- 📜 &nbsp; Checkout my [Resume](https://raw.githubusercontent.com/rparin/rparin.github.io/main/public/Ralph_Parin_Resume.pdf).
 
 <img align="right" width="400"  alt="github stats streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rparin&theme=react&border=61dafb&hide_border=true" />
 
@@ -34,5 +34,4 @@ I am a UC Irvine graduate 🎓 majoring in Computer Science. I am passionate abo
 <div align="center">
 <br/>
 <font size="4" ><strong>Thanks for stopping by!</strong> &nbsp;</font>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rparin.rparin">
 </div>
