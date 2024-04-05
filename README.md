@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rparin/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=googlechrome&logoColor=white)](https://rparin.github.io)
 
-I'm a UC Irvine computer Science graduate 🎓. As someone who is passionate about both computer science💻 and art 🎨, I am constantly exploring 🧐 ways to combine these two things in my work 📝. In my free time ⏱️, I enjoy playing games 🎮 or watching videos 📺 on technology and art. I find it fascinating 🤯 how these two seemingly different fields can intersect and inspire one another ✨.
+I'm a UC Irvine computer science graduate 🎓. As someone who is passionate about both computer science💻 and art 🎨, I am constantly exploring 🧐 ways to combine these two things in my work 📝. In my free time ⏱️, I enjoy playing games 🎮 or watching videos 📺 on technology and art. I find it fascinating 🤯 how these two seemingly different fields can intersect and inspire one another ✨.
 
 <!-- <div align="right" style="margin-right: 4.5rem;">
 <font size="5" >⚡ Github Stats ⚡</font>
