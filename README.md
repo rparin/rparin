@@ -15,7 +15,7 @@ I'm a UC Irvine computer science graduate 🎓. As someone who is passionate abo
 
 ### What I'm up to:
 
-- 🛠 &nbsp; Working with Nodejs, Express, React, MongoDB.
+- 🛠 &nbsp; Working with React, Spring Boot, MySQL.
 - 🧠 &nbsp; Learning Full Stack Development.
 - 📫 &nbsp; How to reach me: r.parin070@gmail.com
 - 📜 &nbsp; Checkout my [Resume](https://raw.githubusercontent.com/rparin/rparin.github.io/main/public/Ralph_Parin_Resume.pdf).
