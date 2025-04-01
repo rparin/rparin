@@ -17,7 +17,7 @@ I'm a UC Irvine computer science graduate 🎓. As someone who is passionate abo
 
 - 🛠 &nbsp; Working with React, Spring Boot, MySQL.
 - 🧠 &nbsp; Learning Full Stack Development.
-- 📫 &nbsp; How to reach me: r.parin070@gmail.com
+- 📫 &nbsp; How to reach me: ralphparin@gmail.com
 - 📜 &nbsp; Checkout my [Resume](https://raw.githubusercontent.com/rparin/rparin.github.io/main/public/Ralph_Parin_Resume.pdf).
 
 <img align="right" width="400"  alt="github stats streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rparin&theme=react&border=61dafb&hide_border=true" />
